@@ -1,0 +1,17 @@
+while loop, this will be useful mostly when we know the termination condition .
+
+Example :- If i say drive the bike till fuel tank in not emptied , here I'm giving a termination condition that you should stop when fuel tank is empty so , here we will use while loop.
+
+Syntax:
+
+    //loop iterator initialization
+    while(condition) {
+        //statements to execute in while loop
+
+        //loop iterator increment or decrement part
+    }
+
+
+# Note: It's mandatory that at a point the condition should fail else it will be an infinite loop , which keeps on running until the memory get's filled.
+
+As a good programmer it's our duty to avoid these infinite loops in our program.    
