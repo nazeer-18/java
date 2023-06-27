@@ -1,2 +1,2 @@
-# ALPHA
-DSA with java from basics
+# JAVA
+Complete java from basics with data structures.!
