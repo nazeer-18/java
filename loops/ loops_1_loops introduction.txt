@@ -1,6 +1,0 @@
-If we wan't to perform a similar operation repeatedly then we will use loop there.
-
-Example : If we wants to listen a same song repeatedly then we will loop it .
-          If we want to print a name say "NAZEER" some 1000 times we can't copy and paste this 1000 times right so, loops has many applications in our day-to-day life.
-
-Types of loops :-   1) for loop 2) while loop 3) do while loop.
