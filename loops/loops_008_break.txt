@@ -15,6 +15,6 @@ Continue:
 The continue statement is used to skip the current iteration of the loop and continue with the next iteration. The continue statement is used inside loops. The continue statement breaks one iteration (in the loop), if a specified condition occurs, and continues with the next iteration in the loop.
 
 Example:
-    take input fromt the user repeatedly and print all except multiples of 10.
+    take input from the user repeatedly and print all except multiples of 10.
 
 Note: Break statement is the most used statement in loops.Continue is not used that much, because the same thing can be done by using if-else statement.
