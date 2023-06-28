@@ -5,7 +5,7 @@
 
 import java.util.*;
 
-public class loops_3_print_one_to_n_numbers {
+public class loops_003_print_one_to_n_numbers {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in); // creating object to scanner class to take inputs.
         System.out.println("Enter value of n ");

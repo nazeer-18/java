@@ -5,7 +5,7 @@
 
 import java.util.*;
 
-public class loops_6_reverse_a_number {
+public class loops_006_reverse_a_number {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in); // creating object to scanner class to take inputs.
         System.out.println("Enter a number ");

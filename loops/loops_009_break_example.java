@@ -5,7 +5,7 @@
 
 import java.util.*;
 
-public class loops_9_break_example {
+public class loops_009_break_example {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in); // creating object to scanner class to take inputs.
         while (true) { // this loop will iterate infinitely as the condition is always true.

@@ -5,7 +5,7 @@
 
 import java.util.*;
 
-public class loops_4_sumOf_n_naturalNumbers {
+public class loops_004_sumOf_n_naturalNumbers {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in); // creating object to scanner class to take inputs.
         System.out.println("Enter value of n ");

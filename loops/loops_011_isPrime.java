@@ -33,7 +33,7 @@
 
 import java.util.*;
 
-public class loops_11_isPrime {
+public class loops_011_isPrime {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); // creating object to scanner class to take inputs.
         System.out.println("Enter a number: ");
