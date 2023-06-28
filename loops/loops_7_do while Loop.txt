@@ -1,0 +1,22 @@
+do while loop is used rarely in any program. It is used when we want to execute the loop at least once. The syntax of do while loop is given below:
+
+Syntax: 
+do
+{
+    //statements to be executed
+
+    //increment/decrement;
+
+} while(condition);
+
+Example:
+
+    int i = 1;
+    do{
+        System.out.println(i);
+        i++;
+    } while(i<=10);
+
+Output: 1 2 3 4 5 6 7 8 9 10
+
+In the above example, the loop will be executed at least once because the condition is checked at the end of the loop.
