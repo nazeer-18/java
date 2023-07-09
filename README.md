@@ -1,8 +1,8 @@
 
-<h1 align="center">A repository  for  JAVA</h1>
+<h1 align="center">A repository  for  JAVA and Algorithms</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+Contributing!!;Let's+Build+our+own+Together&center=true&font=30&" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+Visiting!!;Let's+Build+our+own+Together&center=true&font=30&" />
 </p>
 
 <h2 align="center"><b>Tech Stacks<b></h2><br>
@@ -18,7 +18,12 @@
   
 <br>
 
-- Fork and clone the Repo by typing the following commands in the terminal
+- Fork the repo
+<hr>
+
+<img width="1440" alt="" src="https://github.com/nazeer-18/java/assets/99654015/4b657e78-5c52-4a0a-8fed-f27571abb835">
+
+- clone the Repo by typing the following commands in the terminal
 
 ```
 $ git clone https://github.com/nazeer-18/java.git
@@ -31,15 +36,12 @@ $ cd java
 - Run `git pull` command to sync with remote repo.<br>
   <br> -->
 
-- Now to add your resource to website, add an object with keys same as listed in existing objects in the file.<br>
+- Raise the issue which you want to solve and after assigning solve it.<br>
 - Save and commit your code.<br>
-- Push to your fork of the repository , navigate to original repository and make a pull request.<br>
-<hr>
-
-<img width="1440" alt="" src="https://github.com/nazeer-18/java/assets/99654015/4b657e78-5c52-4a0a-8fed-f27571abb835">
+- Push to your fork of the repository
+- Navigate to original repository and make a pull request.<br>
 
 <hr>
-
 
 - Clone the Repository after forking
 
@@ -76,8 +78,6 @@ $ git push origin <branch-name>
 ```
 
 - Navigate to the original repository and make a pull request
-- In case of merge conflict fetch and merge from the remote repository
-  <img src ="https://docs.github.com/assets/images/help/repository/fetch-and-merge-button.png">
 
 Please don't forget to update the <a href="https://github.com/nazeer-18/java#available-resources">Available Resources</a> section
 
