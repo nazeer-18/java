@@ -36,7 +36,7 @@ $ cd java
 - Push to your fork of the repository , navigate to original repository and make a pull request.<br>
 <hr>
 
-<img width="1440" alt="" src="![fork](https://github.com/nazeer-18/java/assets/99654015/4b657e78-5c52-4a0a-8fed-f27571abb835)">
+<img width="1440" alt="" src="https://github.com/nazeer-18/java/assets/99654015/4b657e78-5c52-4a0a-8fed-f27571abb835">
 
 <hr>
 
