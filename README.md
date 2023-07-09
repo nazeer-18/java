@@ -4,6 +4,15 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+Visiting!!;Let's+Build+our+own+Together&center=true&font=30&" />
 </p>
 
+<div align="center">
+<img src="https://forthebadge.com/images/badges/open-source.svg" />
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" /><br>   
+<img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+<img src="https://forthebadge.com/images/badges/uses-brains.svg" />   
+</div> 
+
+<br>
 <h2 align="center"><b>Tech Stacks<b></h2><br>
 <div align="center">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" />&nbsp;
