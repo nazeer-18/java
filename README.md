@@ -1,7 +1,9 @@
 
 <h1 align="center">A repository  for  JAVA</h1>
 
-![](https://readme-typing-svg.demolab.com/?lines=Thanks+for+Contributing!!;Let's+Build+our+own+Together&center=true&font=30&)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+Contributing!!;Let's+Build+our+own+Together&center=true&font=30&" />
+</p>
 
 <h2 align="center"><b>Tech Stacks<b></h2><br>
 <div align="center">
@@ -12,7 +14,7 @@
 
 <h2 align="center"><u><b>Steps for Contributing</u> 🚀</b></h2>
   
-  <a href = "https://www.youtube.com/watch?v=u169J_merY8"><h3 align = "center">Refer to this YouTube Video for reference! </h3></a>
+  <h3 align = "center">Refer to <a href = "https://www.youtube.com/watch?v=u169J_merY8">this</a> YouTube Video for reference! </h3>
   
 <br>
 
