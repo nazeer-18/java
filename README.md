@@ -19,6 +19,11 @@
   <img src="https://img.shields.io/badge/Algorithms-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=black" /><br>
 </div><br>
 <h2 align="center"><b>Contributors</b></h2>
+   
+<p align="center">
+<a href="https://github.com/nazeer-18/java/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nazeer-18/java" />
+</a>
 
 <h2 align="center"><u><b>Steps for Contributing</u> 💻</b></h2>
   
