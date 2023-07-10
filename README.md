@@ -11,8 +11,19 @@
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 <img src="https://forthebadge.com/images/badges/uses-brains.svg" />   
 </div> 
-
 <br>
+
+<div align="center">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nazeer-18/java?label=Repo%20Size&logo=github&logoColor=white&style=plastic">
+   <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/nazeer-18/java?style=plastic">
+   
+   [![GitHub issues](https://img.shields.io/github/issues/nazeer-18/java?style=plastic&color=critical)](https://github.com/nazeer-18/java/issues)
+   [![GitHub pull requests](https://img.shields.io/github/issues-pr/nazeer-18/java?style=plastic)](https://github.com/nazeer-18/java/pulls)
+   [![GitHub forks](https://img.shields.io/github/forks/nazeer-18/java?color=ff69b4&style=plastic)](https://github.com/nazeer-18/java/forks)
+   [![GitHub Repo stars](https://img.shields.io/github/stars/nazeer-18/java?style=social)](https://github.com/nazeer-18/java/stargazers)
+</div>
+<br>  
+
 <h2 align="center"><b>Tech Stacks<b></h2><br>
 <div align="center">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" />&nbsp;
