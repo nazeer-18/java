@@ -1,3 +1,6 @@
+// write a program to convert float into int 
+// sample input: 9.18
+//sample output: 9
 /* Type Casting: It is also called as Explicit conversion or Narrowing conversion
  i.converting a larger type to a smaller size type (manually)
 ii.double -> float -> long -> int -> char -> short -> byte
